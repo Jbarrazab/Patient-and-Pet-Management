@@ -1,0 +1,15 @@
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/bin/Debug/net8.0/PetManager
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/bin/Debug/net8.0/PetManager.deps.json
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/bin/Debug/net8.0/PetManager.runtimeconfig.json
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/bin/Debug/net8.0/PetManager.dll
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/bin/Debug/net8.0/PetManager.pdb
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/PetManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/PetManager.AssemblyInfoInputs.cache
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/PetManager.AssemblyInfo.cs
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/PetManager.csproj.CoreCompileInputs.cache
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/PetManager.sourcelink.json
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/PetManager.dll
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/refint/PetManager.dll
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/PetManager.pdb
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/PetManager.genruntimeconfig.cache
+/home/Coder/Documentos/Jb/Patient-and-Pet-Management/PetManager/obj/Debug/net8.0/ref/PetManager.dll
